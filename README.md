@@ -7,13 +7,10 @@ Just simple javascript plugin, the countdown timer
  
 I put the "countdown.js" in "js" folder
 
-<!--
-
-<div class="row">
+     <div class="row">
      <span id="timer" class="timer"></span>
-</div> 
+     </div> 
 
--->
 
  	<!-- Scripts -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
